@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|c:\\users\\oktay\\source\\repos\\oktay-purplebuzz\\oktay-purplebuzz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|solutionrelative:oktay-purplebuzz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|c:\\users\\oktay\\source\\repos\\oktay-purplebuzz\\oktay-purplebuzz\\models\\about\\teammembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|solutionrelative:oktay-purplebuzz\\models\\about\\teammembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|c:\\users\\oktay\\source\\repos\\oktay-purplebuzz\\oktay-purplebuzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|solutionrelative:oktay-purplebuzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|c:\\users\\oktay\\source\\repos\\oktay-purplebuzz\\oktay-purplebuzz\\models\\about\\aboutindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479095E5-F446-418A-93AB-BB0DB9C5C544}|Oktay-PurpleBuzz\\Oktay-PurpleBuzz.csproj|solutionrelative:oktay-purplebuzz\\models\\about\\aboutindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Models\\About\\AboutIndexVM.cs",
+              "RelativeDocumentMoniker": "Oktay-PurpleBuzz\\Models\\About\\AboutIndexVM.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Models\\About\\AboutIndexVM.cs",
+              "RelativeToolTip": "Oktay-PurpleBuzz\\Models\\About\\AboutIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:34:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Oktay-PurpleBuzz\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Oktay-PurpleBuzz\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:33:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamMemberVM.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Models\\About\\TeamMemberVM.cs",
+              "RelativeDocumentMoniker": "Oktay-PurpleBuzz\\Models\\About\\TeamMemberVM.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Models\\About\\TeamMemberVM.cs",
+              "RelativeToolTip": "Oktay-PurpleBuzz\\Models\\About\\TeamMemberVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:31:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Oktay-PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Oktay-PurpleBuzz\\Oktay-PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Oktay-PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T10:07:12.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
